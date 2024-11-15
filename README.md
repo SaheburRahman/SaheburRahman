@@ -22,7 +22,7 @@
 
 - 📄 Know about my experiences [N/A](N/A)
 
-- ⚡ Fun fact **I once made a circuit so complex that even I had to debug myself to understand it later.**
+- ⚡**I once made a circuit so complex that even I had to debug myself to understand it later.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
