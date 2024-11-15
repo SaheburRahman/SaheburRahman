@@ -1,4 +1,7 @@
-![MasterHead](https://images.pexels.com/photos/8566636/pexels-photo-8566636.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+<p align="center">
+  <img src="https://img.freepik.com/free-photo/microchip-processor-wallpaper_1409-5914.jpg" alt="MasterHead" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Sahebur</h1>
 <h3 align="center">A passionate analog circuit designer from Bangladesh</h3>
 - 🔭 I’m currently working on **Surveillance Robot**
