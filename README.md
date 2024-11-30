@@ -14,7 +14,7 @@
 
 - 📑 Here is my Resume https://github.com/SaheburRahman/Resume
 
-- 👨‍💻 All of my projects are available at [N/A](N/A)
+- 👨‍💻 All of my projects are available at https://github.com/SaheburRahman/Projects
 
 - 💬 Ask me about **Analog Electronics, Circuit designing**
 
