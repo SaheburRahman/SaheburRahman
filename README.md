@@ -12,6 +12,8 @@
 
 - 🤝 I’m looking for help with **Advanced Mechanical Design**
 
+- 📑 Here is my Resume https://github.com/SaheburRahman/Resume
+
 - 👨‍💻 All of my projects are available at [N/A](N/A)
 
 - 💬 Ask me about **Analog Electronics, Circuit designing**
