@@ -2,8 +2,29 @@
   <img src="https://img.freepik.com/free-photo/microchip-processor-wallpaper_1409-5914.jpg" alt="MasterHead" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Sahebur</h1>
+<h1 align="center">Hi 👋, My name is Sahebur</h1>
 <h3 align="center">A passionate analog circuit designer from Bangladesh</h3>
+
+- <b>📖 Education:</b>
+  - <b>Bachelor of Science in Electrical and Electronics Engineering</b>
+   at <b>American International University-Bangladesh</b>
+  - <b>Higher Secondary Certificate</b>
+   at <b>Sohiuddin Degree College</b>
+  - <b>Secondary School Certificate</b>
+   at <b>Meherpur Govt. High School</b>
+- <b>⚙️ Skills:</b>
+  - <b>Analog Circuit Designing</b>
+  - <b>Microcontroller and embedded system</b>
+  - <b>Programmable Logic Controller Programming</b>
+  - <b>C++ Programming</b>
+  - <b>MATLAB Coding</b>
+  - <b>PC Building Knowledge</b>
+  - <b>Power Electronics</b>
+
+- <b>🏆 Achievements:</b>
+  - <b>DEANS LIST HONOR'S</b>
+  - <b>Secured Second Place in a Poster Presentation on Quantum Dots</b>
+  
 - 🔭 I’m currently working on **Surveillance Robot**
 
 - 🌱 I’m currently learning **Very Large Scale Integrated Circuit (VLSI)**
