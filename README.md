@@ -14,8 +14,6 @@
 
 - 👨‍💻 All of my projects are available at [N/A](N/A)
 
-- 📝 I regularly write articles on [N/A](N/A)
-
 - 💬 Ask me about **Analog Electronics, Circuit designing**
 
 - 📫 How to reach me **rasahebur@gmail.com**
