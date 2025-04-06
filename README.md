@@ -27,7 +27,7 @@
   
 - 🔭 I’m currently working on **Surveillance Robot**
 
-- 🌱 I’m currently learning **Very Large Scale Integrated Circuit (VLSI)**
+- 🌱 I’m currently learning **Very Large Scale Integration (VLSI)**
 
 - 👯 I’m looking to collaborate on **Robotics and Machine Leaning**
 
